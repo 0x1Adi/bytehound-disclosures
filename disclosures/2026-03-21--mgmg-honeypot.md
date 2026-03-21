@@ -26,8 +26,8 @@ MagicMango (🍋MGMG) is a token deployed on 2026-03-21. Automated bytecode anal
 | Symbol | 🍋MGMG |
 | Total Supply | |
 | Holders | 0 |
-| Trading Volume | $125.11 |
-| Liquidity | $4562.29 |
+| Trading Volume | $428.47 |
+| Liquidity | $5169.23 |
 
 ## Links
 
