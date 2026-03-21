@@ -1,0 +1,41 @@
+# CHIBA INU (CHIBA) — Honeypot Disclosure
+
+**Date:** 2026-03-21
+**Contract:** `0x8767966bf4aeec699cb8b24a0b636a4a3fb3c1fc`
+**Chain:** ethereum
+**ByteHound Threat Index:** 82.21
+**Risk Level:** CRITICAL
+
+## Summary
+
+CHIBA INU (CHIBA) is a token deployed on 2026-03-21. Automated bytecode analysis by ByteHound detected anomalous patterns in the contract.
+
+## Scanner Comparison
+
+| Scanner | Verdict | Detected? |
+|---------|---------|----------|
+| GoPlus | No risks found | No |
+| Honeypot.is | Not honeypot | No |
+| ByteHound | CRITICAL (82.21) | Yes |
+
+## Token Metadata
+
+| Metric | Value |
+|--------|-------|
+| Name | CHIBA INU |
+| Symbol | CHIBA |
+| Total Supply | |
+| Holders | 0 |
+| Trading Volume | $264.08 |
+| Liquidity | $2454.60 |
+
+## Links
+
+- [Explorer](https://etherscan.io/address/0x8767966bf4aeec699cb8b24a0b636a4a3fb3c1fc)
+- [DEXScreener](https://dexscreener.com/ethereum/0x8767966bf4aeec699cb8b24a0b636a4a3fb3c1fc)
+
+---
+
+*This is an automated technical analysis of publicly available blockchain bytecode. Findings represent technical observations and do not constitute legal conclusions, financial advice, or accusations of wrongdoing.*
+
+*Detected by ByteHound — proprietary bytecode analysis for smart contract threat detection.*
