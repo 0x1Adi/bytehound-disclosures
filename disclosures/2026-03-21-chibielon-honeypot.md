@@ -1,14 +1,14 @@
-# Chibi Elon (CHIBIELON) — Honeypot Disclosure
+# CHIBIELON (CHIBIELON) — Honeypot Disclosure
 
 **Date:** 2026-03-21
-**Contract:** `0xb5596e943e9d87a78b34ae7d4d189d0d8027b1a7`
+**Contract:** `0x699a5a62269f4c81e493e209f41b3565aacb06ab`
 **Chain:** ethereum
 **ByteHound Threat Index:** 82.21
 **Risk Level:** CRITICAL
 
 ## Summary
 
-Chibi Elon (CHIBIELON) is a token deployed on 2026-03-21. Automated bytecode analysis by ByteHound detected anomalous patterns in the contract.
+CHIBIELON (CHIBIELON) is a token deployed on 2026-03-21. Automated bytecode analysis by ByteHound detected anomalous patterns in the contract.
 
 ## Scanner Comparison
 
@@ -22,17 +22,17 @@ Chibi Elon (CHIBIELON) is a token deployed on 2026-03-21. Automated bytecode ana
 
 | Metric | Value |
 |--------|-------|
-| Name | Chibi Elon |
+| Name | CHIBIELON |
 | Symbol | CHIBIELON |
 | Total Supply | |
 | Holders | 0 |
-| Trading Volume | $3908.70 |
-| Liquidity | $5977.30 |
+| Trading Volume | $3318.32 |
+| Liquidity | $1849.73 |
 
 ## Links
 
-- [Explorer](https://etherscan.io/address/0xb5596e943e9d87a78b34ae7d4d189d0d8027b1a7)
-- [DEXScreener](https://dexscreener.com/ethereum/0xb5596e943e9d87a78b34ae7d4d189d0d8027b1a7)
+- [Explorer](https://etherscan.io/address/0x699a5a62269f4c81e493e209f41b3565aacb06ab)
+- [DEXScreener](https://dexscreener.com/ethereum/0x699a5a62269f4c81e493e209f41b3565aacb06ab)
 
 ---
 
