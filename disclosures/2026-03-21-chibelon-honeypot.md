@@ -1,14 +1,14 @@
-# chibelon (CHIBELON) — Honeypot Disclosure
+# CHIBELON (CHIBELON) — Honeypot Disclosure
 
 **Date:** 2026-03-21
-**Contract:** `0x2750f78987e0891fdb74fed8d4ac79ca6856bfee`
+**Contract:** `0x69642078afbfbbf644a4031e68db10fd61da7c6d`
 **Chain:** ethereum
 **ByteHound Threat Index:** 82.21
 **Risk Level:** CRITICAL
 
 ## Summary
 
-chibelon (CHIBELON) is a token deployed on 2026-03-21. Automated bytecode analysis by ByteHound detected anomalous patterns in the contract.
+CHIBELON (CHIBELON) is a token deployed on 2026-03-21. Automated bytecode analysis by ByteHound detected anomalous patterns in the contract.
 
 ## Scanner Comparison
 
@@ -22,17 +22,17 @@ chibelon (CHIBELON) is a token deployed on 2026-03-21. Automated bytecode analys
 
 | Metric | Value |
 |--------|-------|
-| Name | chibelon |
+| Name | CHIBELON |
 | Symbol | CHIBELON |
 | Total Supply | |
 | Holders | 0 |
-| Trading Volume | $63911.21 |
-| Liquidity | $0.03 |
+| Trading Volume | $5000.09 |
+| Liquidity | $2439.39 |
 
 ## Links
 
-- [Explorer](https://etherscan.io/address/0x2750f78987e0891fdb74fed8d4ac79ca6856bfee)
-- [DEXScreener](https://dexscreener.com/ethereum/0x2750f78987e0891fdb74fed8d4ac79ca6856bfee)
+- [Explorer](https://etherscan.io/address/0x69642078afbfbbf644a4031e68db10fd61da7c6d)
+- [DEXScreener](https://dexscreener.com/ethereum/0x69642078afbfbbf644a4031e68db10fd61da7c6d)
 
 ---
 
