@@ -1,7 +1,7 @@
 # Unknown Token — Honeypot Disclosure
 
 **Date:** 2026-03-21
-**Contract:** `0x5388860f73b3f8467f9f22ee48b084e6a812de8e`
+**Contract:** `0x9f64111342e6e38da566e75cf762ecd74df86bba`
 **Chain:** ethereum
 **ByteHound Threat Index:** 82.21
 **Risk Level:** CRITICAL
@@ -29,8 +29,8 @@ Unknown Token is a token deployed on 2026-03-21. Automated bytecode analysis by 
 
 ## Links
 
-- [Explorer](https://etherscan.io/address/0x5388860f73b3f8467f9f22ee48b084e6a812de8e)
-- [DEXScreener](https://dexscreener.com/ethereum/0x5388860f73b3f8467f9f22ee48b084e6a812de8e)
+- [Explorer](https://etherscan.io/address/0x9f64111342e6e38da566e75cf762ecd74df86bba)
+- [DEXScreener](https://dexscreener.com/ethereum/0x9f64111342e6e38da566e75cf762ecd74df86bba)
 
 ---
 
