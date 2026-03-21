@@ -26,8 +26,8 @@ Grok Computer (GC) is a token deployed on 2026-03-21. Automated bytecode analysi
 | Symbol | GC |
 | Total Supply | |
 | Holders | 0 |
-| Trading Volume | $147.99 |
-| Liquidity | $2452.89 |
+| Trading Volume | $8280.27 |
+| Liquidity | $4503.13 |
 
 ## Links
 
